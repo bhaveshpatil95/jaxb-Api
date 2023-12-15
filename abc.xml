@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="101">
+	<employee name>Bhavesh</employee name>
+	<employee salary>30000</employee salary>
+	<address>
+		<city>Vijaypur</city>
+		<pincode>424305</pincode>
+		<state>Maharashtra</state>
+	</address>
+</employee>
